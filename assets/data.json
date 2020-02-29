@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Arsolia",
+        "desc": "Site web créé pour un serveur de jeux vidéo en Java EE sans framework. Avec des articles, une boutique, des statistiques... Et un panel d'administration pour gerer les contenus.",
+        "images": [
+            "Arsolia/Home.png",
+            "Arsolia/Panel.png",
+            "Arsolia/Stats.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "jQuery",
+            "Java EE",
+            "Servlet",
+            "MySQL",
+            "Redis",
+            "Paymentwall"
+        ]
+    },
+    {
+        "title": "MineSearch",
+        "desc": "Site web de référencement de serveurs de jeux vidéo. Avec des articles, info et statut des serveurs, système de vote, une boutique... Un robot ping les serveurs pour récupérer le statut et les informations toutes les X secondes.",
+        "images": [
+            "Minesearch/Home.png",
+            "Minesearch/Annonce.png",
+            "Minesearch/Panel.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "jQuery",
+            "Java EE",
+            "Servlet",
+            "Mysql",
+            "Redis",
+            "Paymentwall",
+            "Bash",
+            "Cron (Task)"
+        ]
+    },
+    {
+        "title": "RennesCity",
+        "desc": "Petite application basé sur une API REST libre de droit de la Ville de Rennes. Système de chat communautaire avec Firebase.",
+        "images": [
+            "RennesCity/app.jpg"
+        ],
+        "tech": [
+            "Android",
+            "Firebase",
+            "API (Open Data Rennes)"
+        ]
+    },
+    {
+        "title": "SocialNetwork",
+        "desc": "Un réseau social créé avec le framework Laravel. Système de file d'attente avec Laravel Echo et Redis, puis websocket et interaction avec VueJS. Gestion de compte, des amis, des publications... Suggestion d'amis grâce à Neo4J.",
+        "images": [
+            "SocialNetwork/Dash.png",
+            "SocialNetwork/chat.png",
+            "SocialNetwork/chat 2.png",
+            "SocialNetwork/search.png",
+            "SocialNetwork/settings.png",
+            "SocialNetwork/upload.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "Sass",
+            "VueJS",
+            "Laravel (PHP)",
+            "MySQL",
+            "Redis",
+            "Neo4J",
+            "SocketIO"
+        ]
+    },
+    {
+        "title": "CloudLMS",
+        "desc": "Site de formation visant à facilité les formateur à publier des ressources aux élèves. Inscription facil pour les élèves, plusieurs types de resources. Utilisation de Apollo pour avoir un maximum de temps réel entre le formateur et ses élèves.",
+        "images": [
+            "CloudLMS/Login.png",
+            "CloudLMS/register.png",
+            "CloudLMS/Dash.png",
+            "CloudLMS/Class.png",
+            "CloudLMS/settings.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "Sass",
+            "NodeJS (Apollo)",
+            "GraphQL",
+            "MongoDB"
+        ]
+    }
+]
