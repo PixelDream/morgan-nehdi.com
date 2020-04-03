@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /img/portfolio/
+Disallow: /img/icons/
