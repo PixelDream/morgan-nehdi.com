@@ -16,7 +16,7 @@ window.onload = async function() {
     let dots = document.getElementsByClassName("slide-dot");
 
 
-    years.innerText = ~~((Date.now() - birthday) / (31557600000));;
+    years.innerText = ~~((Date.now() - birthday) / (31557600000));
 
     Array.from(btn).forEach(el => {
         el.onclick = function() {
