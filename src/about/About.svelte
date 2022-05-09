@@ -144,7 +144,7 @@
 
 <style lang="scss">
     section {
-        padding-bottom: 50px;
+        padding: 0 40px 50px 40px;
         margin-top: 100px;
 
         .nav {
@@ -170,6 +170,7 @@
         }
 
         .reseaux {
+            margin: 0 10px;
             ul {
                 list-style: none;
                 padding-inline-start: 10px;
@@ -198,6 +199,7 @@
 
         .technos {
             padding-bottom: 30px;
+            margin: 0 10px;
 
             div {
                 margin: 30px 0;
@@ -285,6 +287,7 @@
         .guideline {
             display: grid;
             gap: 25px;
+            margin: 0 10px;
 
             border-left: 2px solid $dark-gray;
             padding: 20px 0 20px 15px;

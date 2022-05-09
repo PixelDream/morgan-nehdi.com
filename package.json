@@ -6,7 +6,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "build": "rollup -c",
+    "build": "rollup -c -s",
     "dev": "rollup -c -w -s",
     "start": "sirv public --no-clear -s",
     "check": "svelte-check --tsconfig ./tsconfig.json"

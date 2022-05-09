@@ -55,7 +55,7 @@
 
 <style lang="scss">    
     section {
-        padding-bottom: 50px;
+        padding: 0 40px 50px 40px;
 
         .card {
             margin: 10px 0;
@@ -108,8 +108,8 @@
             padding: 0;
             color: $white;
             flex-flow: wrap;
-            font-size: 10px;
-            font-weight: 200;
+            font-size: 11px;
+            font-weight: 400;
 
             li {
                 margin: 2px 2px;

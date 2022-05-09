@@ -67,10 +67,10 @@
         }
 
         .composition-background {
-            position: relative;
             position: absolute;
             bottom: 0;
             right: calc(30% - 80px);
+
 
             ul {
                 position: absolute;

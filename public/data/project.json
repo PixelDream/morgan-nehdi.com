@@ -1,7 +1,7 @@
 [
     {
         "title": "MusicParty",
-        "desc": "Projet étudiant: application mobile type réseau social dédié à la musique. Reprend les fonctionnalités de Facebook, Twitter et Instagram. Telles que les publications, stories, photos, commentaires, etc. Développé en binôme avec un autre étudiant. Testé sur android et iOS.",
+        "desc": "Projet étudiant: application mobile type réseau social dédiée à la musique. Reprend les fonctionnalités de Facebook, Twitter et Instagram. Telles que les publications, stories, photos, commentaires, etc. Développée en binôme avec un autre étudiant. Testée sur android et iOS.",
         "images": [],
         "tech": [
             "Dart / Flutter",
@@ -32,7 +32,7 @@
     },
     {
         "title": "Mon Potager",
-        "desc": "Projet étudiant: application mobile de gestion de potager. Recherche de légumes, ajout d'un potager, gestion du calendrier des plantations, etc. Développé avec 4 autres étudiants.",
+        "desc": "Projet étudiant: application mobile de gestion de potager. Recherche de légumes, ajout d'un potager, gestion du calendrier des plantations, etc. Développée avec 4 autres étudiants.",
         "images": [],
         "tech": [
             "Android SDK",
@@ -59,7 +59,7 @@
     },
     {
         "title": "Arsolia",
-        "desc": "Site web créé pour un serveur de jeux vidéo en Java EE sans framework. Avec des articles, une boutique, des statistiques... Et un panel d'administration pour gerer les contenus.",
+        "desc": "Site web créé pour un serveur de jeux vidéo en Java EE sans framework. Avec des articles, une boutique, des statistiques... Et un panel d'administration pour gérer les contenus.",
         "images": [
             "Arsolia/Home.png",
             "Arsolia/Panel.png",
@@ -78,7 +78,7 @@
     },
     {
         "title": "MineSearch",
-        "desc": "Site web de référencement de serveurs de jeux vidéo. Avec des articles, info et statut des serveurs, système de vote, une boutique... Un robot ping les serveurs pour récupérer le statut et les informations toutes les X secondes.",
+        "desc": "Site web de référencement de serveurs de jeux vidéo. Avec des articles, informations et statuts des serveurs, système de vote, une boutique... Un robot ping les serveurs pour récupérer le statut et les informations toutes les X secondes.",
         "images": [
             "Minesearch/Home.png",
             "Minesearch/Annonce.png",
@@ -99,7 +99,7 @@
     },
     {
         "title": "RennesCity",
-        "desc": "Petite application basé sur une API REST libre de droit de la Ville de Rennes. Système de chat communautaire avec Firebase.",
+        "desc": "Petite application basée sur une API REST libre de droit de la Ville de Rennes. Système de chat communautaire avec Firebase.",
         "images": [
             "RennesCity/app.jpg"
         ],
@@ -112,7 +112,7 @@
     },
     {
         "title": "SocialNetwork",
-        "desc": "Un réseau social créé avec le framework Laravel. Système de file d'attente avec Laravel Echo et Redis, puis websocket et interaction avec VueJS. Gestion de compte, des amis, des publications... Suggestion d'amis grâce à Neo4J.",
+        "desc": "Un réseau social créé avec le framework Laravel. Système de file d'attente avec Laravel Echo et Redis, puis websocket et interactions avec VueJS. Gestion de compte, des amis, des publications... Suggestions d'amis grâce à Neo4J.",
         "images": [
             "SocialNetwork/Dash.png",
             "SocialNetwork/chat.png",
@@ -135,7 +135,7 @@
     },
     {
         "title": "CloudLMS",
-        "desc": "Site de formation visant à facilité les formateur à publier des ressources aux élèves. Inscription facil pour les élèves, plusieurs types de resources. Utilisation de Apollo pour avoir un maximum de temps réel entre le formateur et ses élèves.",
+        "desc": "Site de formation visant à faciliter la publication des ressources aux élèves. Inscription facile pour les élèves via un lien envoyé par mail. Utilisation de Apollo pour avoir un maximum de temps réel entre le formateur et ses élèves.",
         "images": [
             "CloudLMS/Login.png",
             "CloudLMS/register.png",
