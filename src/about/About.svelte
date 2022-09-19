@@ -7,7 +7,7 @@
         <img src="assets/morgan-nehdi.jpg" alt="Morgan NEHDI">
         <div>
             <h1>Morgan NEHDI</h1>
-            <p>Etudiant à l’IUT de Laval en stage chez @ComptaCom</p>
+            <p>Etudiant à l'ISTIC</p>
         </div>
     </div>
 
@@ -24,6 +24,11 @@
 
     {#if idx == 0}
         <div class="guideline">
+            <div>
+                <h3>ISTIC - Université Rennes 1</h3>
+                <span>Rennes - <time>2022 / 2025</time></span>
+                <p>MIAGE</p>
+            </div>
             <div>
                 <h3>IUT Laval</h3>
                 <span>Laval - <time>2020 / 2022</time></span>
