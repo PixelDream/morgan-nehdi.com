@@ -21,17 +21,9 @@
 
 		<span>Site en développement</span>
 
-			<Route path="/">
-					<Home />
-			</Route>
-
-			<Route path="/projets">
-				<Project />
-			</Route>
-
-			<Route path="/a-propos">
-				<About />
-			</Route>
+			<Route path="/" component={Home} />
+			<Route path="/projets" component={Project} />
+			<Route path="/a-propos" component={About} />
 
 		<Footer />
 	</Router>
