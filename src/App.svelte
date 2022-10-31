@@ -1,5 +1,5 @@
 <script>
-	import { Router, Route, Link } from "svelte-navigator";
+	import { Router, Route } from "svelte-navigator";
 
 	import Nav from "./components/Nav.svelte";
 
@@ -7,8 +7,6 @@
 
 	import Footer from "./components/Footer.svelte";
 
-	import RouteTransition from "./components/RouteTransition.svelte";
-	import TransitionContainer from "./components/TransitionContainer.svelte";
 	import Project from "./project/Project.svelte";
 	import About from "./about/About.svelte";
 </script>

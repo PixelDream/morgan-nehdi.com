@@ -51,7 +51,7 @@
 <style lang="scss">
     nav {
         max-width: 400px;
-        margin-top: 15px;
+        padding-top: 15px;
         margin-left: auto;
         margin-right: auto;
 
@@ -87,7 +87,7 @@
                     width: 40%;
                     height: 2px;
                     bottom: -4px;
-                    left: 0;
+                    left: 5px;
                     background-color: $blue;
                     animation: appear 0.2s linear;
                     transform: translateX(60%);

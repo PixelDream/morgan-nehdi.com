@@ -6,8 +6,8 @@
     <div class="profile">
         <img src="assets/morgan-nehdi.jpg" alt="Morgan NEHDI">
         <div>
-            <h1>Morgan NEHDI</h1>
-            <p>Etudiant à l'ISTIC</p>
+            <h1>Morgan <span>NEHDI</span></h1>
+            <p>Etudiant à l'ISTIC, en recherche de stage</p>
         </div>
     </div>
 
@@ -27,10 +27,10 @@
             <div>
                 <h3>ISTIC - Université Rennes 1</h3>
                 <span>Rennes - <time>2022 / 2025</time></span>
-                <p>MIAGE</p>
+                <p>Licence 3 / Master MIAGE</p>
             </div>
             <div>
-                <h3>IUT Laval</h3>
+                <h3>IUT Laval - Université du Mans</h3>
                 <span>Laval - <time>2020 / 2022</time></span>
                 <p>DUT en informatique</p>
             </div>
@@ -124,25 +124,24 @@
         <div class="reseaux">
             <ul>
                 <li>
-                    <a href="" target="_blank">
+                    <a href="https://github.com/PixelDream" target="_blank">
                         <img src="assets/social_github.png" alt="GitHub">
                         <h3>GitHub</h3>
                     </a>
                 </li>
                 <li>
-                    <a href="" target="_blank">
+                    <a href="https://www.linkedin.com/in/morgan-nehdi-a99137167/" target="_blank">
                         <img src="assets/social_linkedin.png" alt="LinkedIn">
                         <h3>LinkedIn</h3>
                     </a>
                 </li>
                 <li>
-                    <a href="" target="_blank">
+                    <a href="https://twitter.com/yannaro35" target="_blank">
                         <img src="assets/social_twitter.png" alt="Twitter">
                         <h3>Twitter</h3>
                     </a>
                 </li>
             </ul>
-            
         </div>
     {/if}
 </section>
@@ -241,11 +240,14 @@
                 justify-content: space-between;
 
                 h1 {
-                    font-size: 25px;
+                    font-size: 30px;
                     font-weight: 700;
                     margin: 0;
                     width: 50%;
-                    word-wrap: break-word;
+
+                    span {
+                        display: block;
+                    }
                 }
 
                 p {
