@@ -10,7 +10,7 @@
     <div class="composition-background">
         <ul>
             <li>
-                <a href="https://www.linkedin.com/in/morgan-nehdi-a99137167/" target="_blank">
+                <a href="https://linkedin.com/in/morgan-nehdi/" target="_blank">
                     <img src="/assets/social_linkedin.png" alt="linkedin"/>
                 </a>
             </li>
