@@ -1,0 +1,155 @@
+[
+    {
+        "title": "MusicParty",
+        "desc": "Projet étudiant: application mobile type réseau social dédiée à la musique. Reprend les fonctionnalités de Facebook, Twitter et Instagram. Telles que les publications, stories, photos, commentaires, etc. Développée en binôme avec un autre étudiant. Testée sur android et iOS.",
+        "images": [],
+        "tech": [
+            "Dart / Flutter",
+            "Ferry GraphQL",
+            "NodeJS / Apollo GraphQL",
+            "Minio",
+            "Neo4J",
+            "NGINX",
+            "VPS",
+            "Git / Github",
+            "JWT"
+        ],
+        "doc": [
+            {
+                "title": "Dossier d'analyse des besoins",
+                "url": "MusicParty/dab.pdf"
+            },
+            {
+                "title": "Rapport",
+                "url": "MusicParty/rapport.pdf"
+            },
+            {
+                "title": "Maquette Figma",
+                "url": "https://www.figma.com/file/Uf6YcIEZCIEh44T3GEO0rR/Social-Network-PTS4",
+                "ext": true
+            }
+        ]
+    },
+    {
+        "title": "Mon Potager",
+        "desc": "Projet étudiant: application mobile de gestion de potager. Recherche de légumes, ajout d'un potager, gestion du calendrier des plantations, etc. Développée avec 4 autres étudiants.",
+        "images": [],
+        "tech": [
+            "Android SDK",
+            "Firebase",
+            "Git / Github",
+            "Trello",
+            "Agile / SCRUM"
+        ],
+        "doc": [
+            {
+                "title": "Dossier d'analyse des besoins",
+                "url": "MonPotager/dab.pdf"
+            },
+            {
+                "title": "Rapport",
+                "url": "MonPotager/rapport.pdf"
+            },
+            {
+                "title": "Maquette Figma",
+                "url": "https://www.figma.com/file/OTLAR2o44B6N2TZrn0261O/UI-APP-Plant",
+                "ext": true
+            }
+        ]
+    },
+    {
+        "title": "Arsolia",
+        "desc": "Site web créé pour un serveur de jeux vidéo en Java EE sans framework. Avec des articles, une boutique, des statistiques... Et un panel d'administration pour gérer les contenus.",
+        "images": [
+            "Arsolia/Home.png",
+            "Arsolia/Panel.png",
+            "Arsolia/Stats.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "jQuery",
+            "Java EE",
+            "Servlet",
+            "MySQL",
+            "Redis",
+            "Paymentwall"
+        ],
+        "doc": []
+    },
+    {
+        "title": "MineSearch",
+        "desc": "Site web de référencement de serveurs de jeux vidéo. Avec des articles, informations et statuts des serveurs, système de vote, une boutique... Un robot ping les serveurs pour récupérer le statut et les informations toutes les X secondes.",
+        "images": [
+            "Minesearch/Home.png",
+            "Minesearch/Annonce.png",
+            "Minesearch/Panel.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "jQuery",
+            "Java EE",
+            "Servlet",
+            "Mysql",
+            "Redis",
+            "Paymentwall",
+            "Bash",
+            "Cron (Task)"
+        ],
+        "doc": []
+    },
+    {
+        "title": "RennesCity",
+        "desc": "Petite application basée sur une API REST libre de droit de la Ville de Rennes. Système de chat communautaire avec Firebase.",
+        "images": [
+            "RennesCity/app.jpg"
+        ],
+        "tech": [
+            "Android",
+            "Firebase",
+            "API (Open Data Rennes)"
+        ],
+        "doc": []
+    },
+    {
+        "title": "SocialNetwork",
+        "desc": "Un réseau social créé avec le framework Laravel. Système de file d'attente avec Laravel Echo et Redis, puis websocket et interactions avec VueJS. Gestion de compte, des amis, des publications... Suggestions d'amis grâce à Neo4J.",
+        "images": [
+            "SocialNetwork/Dash.png",
+            "SocialNetwork/chat.png",
+            "SocialNetwork/chat 2.png",
+            "SocialNetwork/search.png",
+            "SocialNetwork/settings.png",
+            "SocialNetwork/upload.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "Sass",
+            "VueJS",
+            "Laravel (PHP)",
+            "MySQL",
+            "Redis",
+            "Neo4J",
+            "SocketIO"
+        ],
+        "doc": []
+    },
+    {
+        "title": "CloudLMS",
+        "desc": "Site de formation visant à faciliter la publication des ressources aux élèves. Inscription facile pour les élèves via un lien envoyé par mail. Utilisation de Apollo pour avoir un maximum de temps réel entre le formateur et ses élèves.",
+        "images": [
+            "CloudLMS/Login.png",
+            "CloudLMS/register.png",
+            "CloudLMS/Dash.png",
+            "CloudLMS/Class.png",
+            "CloudLMS/settings.png"
+        ],
+        "tech": [
+            "HTML/CSS",
+            "Sass",
+            "NodeJS (Apollo)",
+            "GraphQL",
+            "MongoDB"
+        ],
+        "doc": []
+    }
+]
